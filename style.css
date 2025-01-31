@@ -1,0 +1,27 @@
+
+*{
+    background-color: rgb(1, 39, 44);
+}
+.buttons{
+    text-align: center;
+    align-content: center;
+    height: 90vh;  
+}
+
+
+.buttons> button{
+    border: none;
+    border-radius: 5px 0px 5px 0px;
+    color: white;
+    background-color: rgb(33, 33, 128);
+    font-family:cursive;
+    box-shadow: 0px 1px 0px 1px;
+    width: 13vw;
+    height: 5vh;
+    font-size: 1em;
+}
+
+.buttons :hover{
+    background-color: white;
+    color: black;
+}
